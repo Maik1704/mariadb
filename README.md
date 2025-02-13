@@ -20,9 +20,9 @@ Esta guía te llevará paso a paso en la instalación de MariaDB en un contenedo
    ```
 ## Paso 2: Descargar la imagen oficial de MariaDB
 
-Abre una terminal o línea de comandos.
+1. Abre una terminal o línea de comandos.
 
-Ejecuta el siguiente comando para descargar la imagen oficial de MariaDB desde Docker Hub:
+2. Ejecuta el siguiente comando para descargar la imagen oficial de MariaDB desde Docker Hub:
 
   ```bash
   docker pull mariadb
