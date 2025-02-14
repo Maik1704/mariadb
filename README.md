@@ -27,6 +27,7 @@ Esta guía te llevará paso a paso en la instalación de MariaDB en un contenedo
   ```bash
   docker pull mariadb
   ```
+![image](https://github.com/user-attachments/assets/e9116967-12be-4239-9335-e82caefc88ce)
 
 ## Paso 3: Crear y ejecutar un contenedor de MariaDB
 
